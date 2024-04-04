@@ -68,6 +68,8 @@
     height: 500px;
     background-color: rgba(0,0,0,0.9);
     opacity: 0.5;
+    object-fit: cover;
+    object-position: center;
 }
 .text-cont{
     display: flex;
